@@ -10,10 +10,14 @@
 🌟 My ultimate goal is to create services that have a positive influence on people's lives.
 
 ### More About Me
+`Portfolio` **|**
 <a href="https://www.notion.so/somtha/0dff78b8536b4612bebd5300572e55bc"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white" align="center"/></a>
-<a href="https://velog.io/@somda"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" align="center"/></a>
-<a href="https://www.linkedin.com/in/dasom-park-19572417a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" align="center"/></a>
 
+`Velog` **|**
+<a href="https://velog.io/@somda"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" align="center"/></a>
+
+`LinkedIn` **|**
+<a href="https://www.linkedin.com/in/dasom-park-19572417a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" align="center"/></a>
 
 `Skills` **|**
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" align="center"/>
@@ -22,8 +26,6 @@
 <img src="https://img.shields.io/badge/Recoil-FD2251?style=flat-square&logo=Recoil&logoColor=white" align="center"/>
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white" align="center"/>
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" align="center"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsomda&layout=compact)](https://github.com/devsomda/github-readme-stats)
 
 
 <!--
