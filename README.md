@@ -27,9 +27,10 @@
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white" align="center"/>
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" align="center"/>
 
-### Direct Link for Projects
-<a href="https://github.com/stars/devsomda/lists/projects">devsomda's projects</a>
-<a href="https://github.com/stars/devsomda/lists/projects">devsomda's practices</a>
+### Direct Link
+🖥 <a href="https://github.com/stars/devsomda/lists/projects">Projects</a>
+
+🗒️ <a href="https://github.com/stars/devsomda/lists/projects">Practices</a>
 
 <!--
 **devsomda/devsomda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
